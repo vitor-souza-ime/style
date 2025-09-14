@@ -78,5 +78,3 @@ Este projeto é distribuído sob a licença MIT.
 As imagens utilizadas são de **domínio público**.
 
 
-Quer que eu já monte também o arquivo **requirements.txt** para acompanhar o `README.md`?
-```
